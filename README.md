@@ -21,5 +21,3 @@ lab-books/
 ├── mkdocs.yml ⚙️ Configuration for MkDocs
 ├── README.md 📜 You're reading this!
 ```
-
-Test
