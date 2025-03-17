@@ -7,7 +7,7 @@ This repository hosts my **interactive labbooks** for research projects I comple
 - Links to repositories with code, tutorials, and datasets.
 - Interactive documentation powered by **MkDocs + Material**.
 
-🌍 **View the Live Site**: [aylinsgl.github.io/lab-books/](aylinsgl.github.io/lab-books/)
+🌍 **View the Live Site**: [https://aylinsgl.github.io/lab-books/](https://aylinsgl.github.io/lab-books/)
 
 ---
 
