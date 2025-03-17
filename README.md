@@ -13,9 +13,13 @@ This repository hosts my **interactive labbooks** for research projects I comple
 
 ## 📂 Repository Structure
 
+```
 lab-books/
 ├── docs/ 📁 Documentation pages
 │ ├── index.md 📜 Homepage
 │ ├── projects/ 📁 Individual project pages
 ├── mkdocs.yml ⚙️ Configuration for MkDocs
 ├── README.md 📜 You're reading this!
+```
+
+Test
