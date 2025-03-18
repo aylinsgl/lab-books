@@ -1,12 +1,4 @@
-site_name: Lab Books
-theme:
-  name: material
-  features:
-    - navigation.instant
-    - navigation.tabs
-    - search.highlight
-    - content.code.annotate
-    - content.tabs.link
+site_name: Aylin Kallmayer's Lab Books
 
 nav:
   - Home: index.md
@@ -14,3 +6,34 @@ nav:
       - Project 1: projects/project-1.md
       - Project 2: projects/project-2.md
       - Project 3: projects/project-3.md
+
+theme:
+  logo: assets/images/Figure0.png
+  favicon: assets/images/Figure0.png
+  name: material
+  palette:
+    scheme: default  # Options: default, slate (dark mode), custom
+    primary: custom
+    accent: orange
+  font:
+    text: Roboto
+    code: Fira Code
+  
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+    - content.code.annotate
+    - content.tabs.link
+    
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/aylinsgl
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/aylin-kallmayer-865a2b203
+
+extra_css:
+  - stylesheets/custom.css

@@ -1,0 +1,12 @@
+.md-header__button.md-logo img {
+    height: 100px !important;  /* Adjust size as needed */
+    width: 100px !important;   /* Make width equal to height */
+    border-radius: 50%;       /* Makes it a circle */
+    object-fit: cover;        /* Ensures the image fills the circle */
+    border: 2px solid white;  /* Optional: Add a white border */
+}
+
+:root {
+    --md-primary-fg-color: #9d331c !important; /* Your Custom Hex Code */
+    --md-accent-fg-color: #ffcc00 !important;  /* Custom Accent Color */
+}
