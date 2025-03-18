@@ -43,8 +43,6 @@ In both experiments, each trial followed a structured sequence, including a brie
 
 ![Figure 2: Effect of Anchor Status Frequency on Realness Ratings](../assets/images/Figure3.png)
 
-**Effect of Anchor Objects on Realness Perception**
-
 - **Left:** Realness responses in the signal detection task (SDT) (1 = real, 0 = generated) show a significant effect of anchor status frequency.
 - **Right:** Realness ratings also show a significant relationship with anchor status frequency.
 
