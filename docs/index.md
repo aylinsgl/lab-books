@@ -13,7 +13,9 @@ Each project has its own dedicated page, providing:
 - 📑 Tutorials & explanatory notebooks
 - 🔗 Additional resources and materials
 
-## Project Overview
+## Projects Overview
+
+I will start first with a broad introduction to the general motivation behind my projects - the broader questions and "red thread" linking everything together. 
 
 Visual perception seems effortless – most of us do not feel like we expend much energy simply perceiving the world around us; we just do. However, inferring external world states from mere observations is a computationally complex task – like recognizing a friend’s face in a crowded room or identifying a familiar object in poor lighting. This process involves transforming sensory information (light entering through the retina) into behaviorally relevant neural representations. Since perceiving our surroundings is vital, this transformation must happen quickly and automatically, despite being constrained by limited energy resources. During this process, the visual system must deal with ambiguity caused by, for example, limited views due to occlusion, poor lighting, or clutter, to form accurate, efficient, and robust representations of its surroundings. But the visual world is not random; there is regularity in the way light reflects off surfaces, as well as in how we design our environments, the objects
 we use, and how we arrange them.
