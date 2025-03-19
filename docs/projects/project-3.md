@@ -63,8 +63,4 @@ and violations are not readily detectable.
 
 ## 🖥️ Repository
 
-All code can be found via this [github repository](...).
-
-## 📑 Tutorial Notebooks
-
-Coming soon...
+All code can be found via this [github repository](...)

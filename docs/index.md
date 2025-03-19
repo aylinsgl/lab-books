@@ -10,8 +10,14 @@ Each project has its own dedicated page, providing:
 
 - 📖 A detailed project description
 - 🖥️ Links to code repositories and datasets
-- 📑 Tutorials & explanatory notebooks
 - 🔗 Additional resources and materials
+
+Additionally, I have created [tutorial notebooks] for EEG preprocessing using mne python, EEG decoding using mne python + sklearn, and RSA.
+
+### ⌨️ Explore Tutorials
+- [Tutorial EEG preprocessing](tutorials/eeg-preprocessing.md)
+- [Tutorial EEG decoding](tutorials/eeg-decoding.md)
+- [Tutorial RSA](tutorials/rsa.md)
 
 ## Projects Overview
 
@@ -31,7 +37,7 @@ the formation of behaviorally relevant neural representations. This helps us und
 
 ![Figure 0.2: Projects Overview](assets/images/Figure0.png)
 
-## 🚀 Explore the Projects
+### 🚀 Explore the Projects
 
 Click on a project to learn more!
 

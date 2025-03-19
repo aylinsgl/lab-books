@@ -68,7 +68,3 @@ Computational modeling revealed that high-level visual features, including objec
 ## 🖥️ Repository
 
 All materials (experimental files, data, code) can be found via this [OSF repository](https://osf.io/x2rbq/?view_only=fbdb72f4a8904f9dae6d39d3e02f7cb5).
-
-## 📑 Tutorial Notebooks
-
-Coming soon...

@@ -42,7 +42,3 @@ The contribution of GPT embeddings suggests that the way objects are structured 
 ## 🖥️ Repository
 
 All code as well as preprocessed EEG files can be found via this [github repository](https://github.com/aylinsgl/sg-phrase-cross-decoding).
-
-## 📑 Tutorial Notebooks
-
-Coming soon...
