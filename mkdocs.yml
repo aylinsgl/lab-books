@@ -6,6 +6,7 @@ nav:
       - Project 1: projects/project-1.md
       - Project 2: projects/project-2.md
       - Project 3: projects/project-3.md
+  - Tutorials: tutorials.md
 
 theme:
   logo: assets/images/Figure0.png
@@ -20,9 +21,6 @@ theme:
     code: Fira Code
   
   features:
-    - navigation.tabs
-    - navigation.instant
-    - navigation.top
     - content.code.copy
     - search.highlight
     - content.code.annotate

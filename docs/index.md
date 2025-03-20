@@ -12,12 +12,9 @@ Each project has its own dedicated page, providing:
 - 🖥️ Links to code repositories and datasets
 - 🔗 Additional resources and materials
 
-Additionally, I have created [tutorial notebooks] for EEG preprocessing using mne python, EEG decoding using mne python + sklearn, and RSA.
+Additionally, I have created tutorial notebooks for EEG decoding and RSA using mne python:
 
-### ⌨️ Explore Tutorials
-- [Tutorial EEG preprocessing](tutorials/eeg-preprocessing.md)
-- [Tutorial EEG decoding](tutorials/eeg-decoding.md)
-- [Tutorial RSA](tutorials/rsa.md)
+- [Decoding & RSA Tutorials](tutorials.md)  
 
 ## Projects Overview
 
